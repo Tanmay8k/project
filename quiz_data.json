@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "ry",
+            "options": [
+                "3"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "ry",
+            "options": [
+                "3",
+                "2"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "hiii",
+            "options": [
+                "2"
+            ],
+            "answer": 1
+        }
+    ],
+    "scores": [
+        {
+            "player": "t",
+            "score": 2,
+            "total": 3,
+            "played_at": "2026-09-29 18:25:13"
+        }
+    ]
+}
